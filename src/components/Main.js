@@ -10,6 +10,7 @@ class Main extends Component {
           <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '500px' }}>
             <div className="content mr-auto ml-auto">
               <p>&nbsp;</p>
+              <h1>Welcome to Decentragram, your post can never be taken down!</h1>
               <h2>Share Image</h2>
               <form onSubmit={(event) => {
                 event.preventDefault()
